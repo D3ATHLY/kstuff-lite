@@ -1,3 +1,12 @@
+# NOTE: Its experimental project, don't use !!!
+
+
+
+
+
+
+
+
 # kstuff-lite — `1.11-opt`
 
 `1.11-opt` builds on the existing kstuff-lite crypto, FSELF, NPDRM, and loader
